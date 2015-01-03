@@ -3,11 +3,14 @@ Kaggle -- Random Acts of Pizza
 
 Step One:
 
-  Extract numeric features from the JSON file only and achieved accuracy around 74%. 
+  Extract numeric and categorical features from the JSON file and achieved accuracy around 74%. 
   
   Model applied: SVM with RBF kernel 
   
 Step Two:
-  Feature Engineering from the text features. 
+
+  Feature Engineering from the text features.
+	
+	EDA on text features. -- Done  
   
   
