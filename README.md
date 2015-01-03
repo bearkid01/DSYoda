@@ -1,4 +1,13 @@
-DSYoda
+Kaggle -- Random Acts of Pizza 
 ======
 
-Learning DS in the hard way 
+Step One:
+
+  Extract numeric features from the JSON file only and Achieved accuracy around 74%. 
+  
+  Model applied: SVM with RBF kernel 
+  
+Step Two:
+  Feature Engineering from the text features. 
+  
+  
