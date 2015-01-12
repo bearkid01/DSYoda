@@ -9,7 +9,7 @@ Step One:
   
 Step Two:
 
-  Feature Engineering from the text features.
+  Feature Engineering from the text.
 	
 	EDA on text features. -- Done  
   
